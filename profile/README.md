@@ -1,113 +1,114 @@
-# 🚀 Welcome to TrueFlow
+# TrueFlow
 
-> Empowering teams with smarter HR, task, and workforce management.
+## Building the future of workplace automation
 
-## 👋 About Us
+TrueFlow is building a unified platform to help technology-driven companies manage the complete lifecycle of their employees.
 
-**TrueFlow** is focused on building modern solutions for **HR management**, **task tracking**, **team collaboration**, and **workforce organization**.
+From the first day a person joins a company to the day they leave, organizations face countless manual processes, scattered tools, and security risks.
 
-Our mission is to simplify how companies manage their people, projects, and daily operations — all in one powerful ecosystem.
-
-## 🎯 What We Build
-
-We develop tools and platforms for:
-
-- 👥 **Employee Management**
-- ✅ **Task & Work Management**
-- 🧩 **Team Management**
-- 📅 **Project & Workflow Organization**
-- 🏢 **HR Operations**
-- 📈 **Productivity Tracking**
-- 🔐 **Role & Permission Management**
-- 💬 **Internal Collaboration**
-
-## 🌟 Core Vision
-
-We believe great companies are built on:
-
-- Clear communication
-- Organized workflows
-- Transparent responsibilities
-- Strong team collaboration
-- Efficient human resource management
-
-Our products are designed to help businesses grow with structure, speed, and clarity.
-
-## 🛠️ Main Focus Areas
-
-### 👨‍💼 HR Management
-Manage employees, positions, departments, attendance, and internal processes with ease.
-
-### ✅ Task Management
-Create, assign, track, and monitor tasks across teams and projects.
-
-### 👥 Team Management
-Organize teams, define responsibilities, and improve collaboration.
-
-### 📊 Performance & Productivity
-Measure progress, monitor workloads, and improve operational efficiency.
-
-### 🔐 Access Control
-Provide secure and scalable role-based access for different users and departments.
-
-## 💡 Why This Organization Exists
-
-This organization contains the source code, services, tools, and infrastructure behind our platform.
-
-Here we maintain and develop:
-
-- Frontend applications
-- Backend services
-- Internal tools
-- Shared packages
-- Documentation
-- Deployment and infrastructure resources
-
-## 📌 Our Goals
-
-- Build scalable and maintainable systems
-- Improve workforce management experience
-- Deliver clean and modern user experiences
-- Support growing teams and businesses
-- Centralize HR and operational workflows
-
-## 🤝 Collaboration Philosophy
-
-We care about:
-
-- Clean architecture 🧱
-- Scalable systems 📦
-- Developer experience 💻
-- Product quality ✨
-- Long-term maintainability 🔧
-
-## 📂 Organization Repositories
-
-This organization may include repositories for:
-
-- `frontend` – User-facing applications
-- `backend` – APIs and business logic
-- `admin-panel` – Internal management dashboard
-- `shared-packages` – Reusable libraries and utilities
-- `docs` – Product and technical documentation
-- `infrastructure` – DevOps, deployment, and environment setup
-
-## 🔮 Future Direction
-
-We are continuously evolving our platform to provide better solutions for:
-
-- Smart HR workflows
-- Better team coordination
-- Advanced reporting and analytics
-- Automation of repetitive operations
-- Stronger business process management
-
-## ❤️ Final Note
-
-We’re building more than just software — we’re creating a better way for teams and companies to work together.
+TrueFlow aims to solve this by connecting people, processes, and tools into a single automation layer.
 
 ---
 
-### 📫 Stay Connected
-If you are part of this organization, welcome aboard.  
-Let’s build something impactful together. 🚀
+## Our Vision
+
+We believe modern companies should not spend their time manually managing repetitive operational workflows.
+
+A company should be able to:
+
+- onboard new team members effortlessly
+- manage internal processes consistently
+- automate access management
+- reduce security risks
+- keep teams aligned across different tools
+
+Our goal is to become the operational layer that connects organizations with the tools they already use.
+
+---
+
+## What We Build
+
+TrueFlow is designed around three core concepts:
+
+### Employee Lifecycle Management
+
+Managing the complete journey of employees:
+
+- onboarding
+- role changes
+- offboarding
+- internal workflows
+
+### Workflow Automation
+
+Turning company processes into reliable and trackable workflows:
+
+- task assignment
+- approvals
+- responsibility tracking
+- process history
+
+### Integration Layer
+
+Connecting the tools companies already depend on:
+
+- GitHub
+- Jira
+- Figma
+- Notion
+- Slack
+- and more
+
+---
+
+## Why TrueFlow?
+
+Modern teams rely on dozens of tools, but their processes are still mostly manual.
+
+A new employee joins:
+
+- accounts are created manually
+- permissions are assigned manually
+- documents are shared manually
+
+An employee leaves:
+
+- access removal depends on people remembering every step
+- security risks increase
+- important actions can be missed
+
+TrueFlow helps organizations replace fragile manual processes with reliable automation.
+
+---
+
+## Open Source
+
+We believe in building in public.
+
+Some parts of TrueFlow are open source to encourage collaboration, transparency, and community contribution.
+
+The core business logic and advanced capabilities remain part of the TrueFlow platform.
+
+---
+
+## Current Focus
+
+We are currently focused on building the foundation:
+
+- organization management
+- employee workflows
+- onboarding/offboarding processes
+- automation infrastructure
+- integrations
+
+---
+
+## Long-Term Vision
+
+TrueFlow is not just a workflow tool.
+
+Our long-term vision is to build an intelligent operational assistant for technology companies — a system that understands how organizations work and helps them operate more efficiently.
+
+---
+
+Built with ❤️ by the TrueFlow team
